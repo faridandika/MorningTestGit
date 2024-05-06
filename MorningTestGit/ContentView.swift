@@ -4,6 +4,8 @@
 //
 //  Created by Farid Andika on 06/05/24.
 //
+//
+// hello
 
 import SwiftUI
 
@@ -14,6 +16,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Text("Welcome to the Ground, Sir!")
         }
         .padding()
     }
