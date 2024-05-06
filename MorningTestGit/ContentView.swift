@@ -16,6 +16,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Text("Welcome to the Ground, By Kelvin!")
             Text("Welcome to the Ground, Sir!")
             Text("Welcome to the Ground, Mam!")
             Text("Welcome to the Ground, Bro!")
